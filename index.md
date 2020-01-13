@@ -22,7 +22,7 @@ page_sections:
     url: "#"
     button_text: Tap List coming soon
   image:
-    image: "/uploads/2020/01/13/huxonbrewinglogo.png"
+    image: "/uploads/2020/01/13/huxonbrewinglogo-removebg.png"
     alt_text: Product Shot
   background_image: ''
 - template: simple-footer
