@@ -1,9 +1,9 @@
 ---
 title: Huxon Brewing
 author: Joshua Brown
-email: support@forestry.io
+email: support@huxonbrewing.com
 description: Huxon Brewing is a group of four friends who love brewing!
-baseurl: "#"
+baseurl: huxonbrewing
 url: ''
 defaults:
 - scope:
