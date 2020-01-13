@@ -21,16 +21,16 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: Huxon Brewing is about four friends, starting a locally owned brewery for
+    people to come and enjoy great beer with friends, family or co-workers.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: "#"
+    button_text: Tap List coming soon
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2020/01/13/huxonbrewinglogo.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
