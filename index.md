@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: Home
   cta:
-    url: ''
+    url: "#"
     button_text: Tap List
 - template: hero-banner-w-image
   block: hero-2
