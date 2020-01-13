@@ -74,7 +74,7 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: We ❤︎ making great beer and look forward to sharing it with you soon!
 
 ---
 foo bar
