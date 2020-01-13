@@ -20,7 +20,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: Introducing <br><strong>Huxon Brewing</strong>
   content: Huxon Brewing is about four friends, starting a locally owned brewery for
     people to come and enjoy great beer with friends, family or co-workers.
   cta:
@@ -28,9 +28,9 @@ page_sections:
     url: "#"
     button_text: Tap List coming soon
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2020/01/13/huxonbrewinglogo.png"
     alt_text: Product Shot
-  background_image: "/uploads/2020/01/13/huxonbrewinglogo.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
